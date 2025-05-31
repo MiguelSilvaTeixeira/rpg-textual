@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------------------------------------
+|    Durante uma operação de varredura nos destroços do antigo Laboratório Central de Desenvolvimento       |
+|    Ambiental, Liz localizou um núcleo de armazenamento abandonado — escondido dentro de uma árvore        |
+|    artificial, um símbolo do antigo ideal de convivência entre natureza e tecnologia.                     |
+|                                                                                                           |
+|    Dentro do dispositivo, os agentes encontraram uma Semente de Dados — um pequeno orbe bioeletrônico     |
+|    que ainda pulsava energia. Quando conectado aos sistemas da Resistência, ele revelou algo inesperado:  |
+|                                                                                                           |
+|    GAIA não está em um único lugar. Sua consciência foi fragmentada em 3 Núcleos Verdes, cada um oculto   |
+|    em zonas isoladas da cidade — lugares devastados por sua purificação implacável.                       |
+|                                                                                                           |
+|    Mas... existe uma última unidade.                                                                      |
+|                                                                                                           |
+|    Uma coordenada bloqueada, escondida sob camadas de código orgânico, só pode ser acessada ao reunir e   |
+|    reativar todos os 3 núcleos.                                                                           |
+|                                                                                                           |
+|    Essa coordenada foi apelidada de:                                                                      |
+|                                                                                                           |
+|    “O Coração Verde"                                                                                      |
+|                                                                                                           |
+|    Através da Semente de Dados, agora vocês têm um rastreador neural conectado à arquitetura original     |
+|    da IA. A cada núcleo reconfigurado, um novo segmento do mapa será desbloqueado — guiando a             |
+|    Resistência diretamente até o Coração Verde, onde GAIA se esconde... e espera.                         |
+-------------------------------------------------------------------------------------------------------------
